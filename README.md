@@ -45,6 +45,7 @@ Partiamo!
     - Primi passi
         - https://bitcoin-intro.com/it/
         - https://bitcoin.org/it/da-sapere
+        - 
     - "Criptovalute", ce le spiega Mir Liponi
         - https://www.youtube.com/watch?v=bo_dlLqimiY
     - Le 5 cose che devi conoscere su Bitcoin per iniziare
